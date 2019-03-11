@@ -1,0 +1,2 @@
+# segitiga
+hitung luas segitiga
